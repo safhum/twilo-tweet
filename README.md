@@ -15,3 +15,7 @@ A small web application using the twilio messaging API to send and receive messa
 5.Reply to incoming messages with an SMS
 
 # pip install twilio
+
+
+
+## python app.py TO RUN THE APP
